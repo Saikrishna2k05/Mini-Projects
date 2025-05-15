@@ -2,6 +2,8 @@
 
 This is a beginner-friendly clone of the official [Visual Studio Code](https://code.visualstudio.com/) landing page, built using raw HTML and CSS as part of my learning journey.
 
+You can view it here - https://vscode-landing-page-indol.vercel.app/
+
 ## 🚀 Features
 
 - Custom navigation bar
